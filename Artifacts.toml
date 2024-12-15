@@ -5,7 +5,7 @@ os = "macos"
 
     [[OpenLDAPClient.download]]
     sha256 = "dbe72bd4450b9bd9e2579bfdefb0251a2c7d81978c6f06367c812668f66fd519"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.aarch64-apple-darwin.tar.gz"
 [[OpenLDAPClient]]
 arch = "aarch64"
 git-tree-sha1 = "556e5aa9f21fe065e8b5cdedd007ceb1752d0f8f"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "8c98c384272e75df955f61f26b42442255df0639c6a1e75bf095960fd4ba9cfe"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.aarch64-linux-gnu.tar.gz"
 [[OpenLDAPClient]]
 arch = "aarch64"
 git-tree-sha1 = "e7e372a48a571ed74a8085319b531da014dc8c7a"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "c1127c04c4cc5cc468274307cf8f312f93f4a80540e1ad071c43afb07dfcce09"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.aarch64-linux-musl.tar.gz"
 [[OpenLDAPClient]]
 arch = "aarch64"
 git-tree-sha1 = "a44451a11567dc08c32d8d1e6b70c4242b8cac6d"
@@ -31,7 +31,7 @@ os = "freebsd"
 
     [[OpenLDAPClient.download]]
     sha256 = "b7d2ae1c05017264f72c89c769e5eac2276b06a0335f0d91ef9dccb65255a6b6"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.aarch64-unknown-freebsd.tar.gz"
 [[OpenLDAPClient]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "ad9d470a69544e1a598ae930163595cf75fd29c6322d2922d7aa800d485c9dad"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.armv6l-linux-gnueabihf.tar.gz"
 [[OpenLDAPClient]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -51,7 +51,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "ddb3ac74daf55125cdd1ea34dfb39fb9fc8943a5b4f0443d664fd39d2e4f63db"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.armv6l-linux-musleabihf.tar.gz"
 [[OpenLDAPClient]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "a632bae2922620ae63653908f3aab6517a9a905ab53bfae61064a737c4f173f6"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.armv7l-linux-gnueabihf.tar.gz"
 [[OpenLDAPClient]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "ccc83faa86d882498fc22bf94e4c0dc0d2538f7f4918269d31866edec2fb6581"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.armv7l-linux-musleabihf.tar.gz"
 [[OpenLDAPClient]]
 arch = "i686"
 git-tree-sha1 = "0f651590c9768eb3925809e42836d483932a51f9"
@@ -80,7 +80,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "12e2701e08e5aa16dca6043cdd533bb0e552af70e609ef95e8eea98197307c98"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.i686-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.i686-linux-gnu.tar.gz"
 [[OpenLDAPClient]]
 arch = "i686"
 git-tree-sha1 = "3c3b777623d999f5bcd62371fc8851de12b6448f"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "84a6e6e4ac2bac95be60ed42c4b21c09f3e06d7507a2cd9ca1677322628242e6"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.i686-linux-musl.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.i686-linux-musl.tar.gz"
 [[OpenLDAPClient]]
 arch = "i686"
 git-tree-sha1 = "b43fde8b9cc74706e22bede5f2acd82b1d44011b"
@@ -97,7 +97,7 @@ os = "windows"
 
     [[OpenLDAPClient.download]]
     sha256 = "b922db06df2f1e9924a90804b32d29fe69f40857f0aae612be26e895956179f5"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.i686-w64-mingw32.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.i686-w64-mingw32.tar.gz"
 [[OpenLDAPClient]]
 arch = "powerpc64le"
 git-tree-sha1 = "72309a59ea51678a9c3b6bf644e6894d55f4fb3c"
@@ -106,7 +106,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "26f0f6c08e6a13c8cb6598e5327f6b418e1aca8a01b2ffba97642aeee610ec13"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.powerpc64le-linux-gnu.tar.gz"
 [[OpenLDAPClient]]
 arch = "x86_64"
 git-tree-sha1 = "7ef529cdbe36812419890971ea66ade1ab1dd3a3"
@@ -114,7 +114,7 @@ os = "macos"
 
     [[OpenLDAPClient.download]]
     sha256 = "89166f39f5cd8ca383e060a3aa72bb9dc03c20b2d92ca6c1f5dc7041b38e0cd2"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.x86_64-apple-darwin.tar.gz"
 [[OpenLDAPClient]]
 arch = "x86_64"
 git-tree-sha1 = "c5acdfbe016a63f12d4bd362bc9bb744ae007ae9"
@@ -123,7 +123,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "9d202b9be5cda92ead007d790b732c1041353969698fcb787885dcaf8661ed10"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.x86_64-linux-gnu.tar.gz"
 [[OpenLDAPClient]]
 arch = "x86_64"
 git-tree-sha1 = "9532f3c67f7f9879df52d8849c8cb6a57d09d327"
@@ -132,7 +132,7 @@ os = "linux"
 
     [[OpenLDAPClient.download]]
     sha256 = "b1fb77523e16050791e463a1db90cf35580c3514525a22f9e70cc9bbdf1044a6"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.x86_64-linux-musl.tar.gz"
 [[OpenLDAPClient]]
 arch = "x86_64"
 git-tree-sha1 = "ed08f2f79f0382c78179dd7775c1fd37b9bcc429"
@@ -140,7 +140,7 @@ os = "freebsd"
 
     [[OpenLDAPClient.download]]
     sha256 = "57f909db43dbdeee897fe5c44f2a7e28565eae065091eaeada45836779ef19c1"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.x86_64-unknown-freebsd.tar.gz"
 [[OpenLDAPClient]]
 arch = "x86_64"
 git-tree-sha1 = "823826a1c050743e39337e9a50cc8dc58ca16d5b"
@@ -148,4 +148,4 @@ os = "windows"
 
     [[OpenLDAPClient.download]]
     sha256 = "0c9ab08bc4c40d77c14d55eb40a4b6f8e142098d38b578f6dee7d3f2cedfa5f1"
-    url = "https://github.com/local/releases/download/OpenLDAPClient-v2.5.19+0/OpenLDAPClient.v2.5.19.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/maxfadson/OpenLDAPClient_jll.jl/releases/download/openldap-openssl3/OpenLDAPClient.v2.5.19.x86_64-w64-mingw32.tar.gz"
